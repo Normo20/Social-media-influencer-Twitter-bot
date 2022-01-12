@@ -76,7 +76,7 @@ def cryptshill():
 def cryptocostream():
      k2= random.randint(0, 50)
      ks2= str(k2)
-     api.update_status(status='OMG streaming with @ILikeToScamPeopleWithCrypto at 7pm eastern so come check it out at https://www.twitch.tv/amouranth' +' '+ ks2)
+     api.update_status(status='OMG streaming with @ILikeToScamPeopleWithCrypto at 7pm eastern so come check it out at https://www.twitch.tv/scam' +' '+ ks2)
 
 def nftmoney():
      media_ids = []
